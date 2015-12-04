@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>David's guessing game.</title>
+  </head>
+  <body>
+    <h1>David's guessing game.</h1>
+    <p>The guessing game about David, I use the prompt to ask the user if I was born in South Dakota or not. I do this through the variable 'user' in prompt. Then I use the alert function to notify the user if they answered the question correctly or not through the if and else functions. Each if or else function requires its own brackets.</p>
+    <h2>About me.</h2>
+    <p> I love to watch NBA games. Boxing matches and UFC matches as well. I love music, I listen to music everyday. Hip hop is my favorite genre of music hands down, the late 80's and 90's is the best era in my opinion.</p>
+    <a href='about.html'>Resume.</a>
+    <script src='game.js'> </script>
+  </body>
+</html>
