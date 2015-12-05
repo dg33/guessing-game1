@@ -1,0 +1,27 @@
+body {
+    background-color: #CC6666;
+}
+h1 {
+  font-family: serif;
+  font-size: 40px;
+  margin-right: 40px;
+  color: #C80000
+}
+h2 {
+  font-family: serif;
+  font-size: 40px;
+  margin-right: 40px;
+  color: #C80000
+}
+p {
+  font-family: arial;
+  font-size: 20px;
+  marigin-right: 30px;
+  color: 404040
+}
+.Right {
+  background-color: green;
+}
+.Wrong {
+  background-color: red;
+}
